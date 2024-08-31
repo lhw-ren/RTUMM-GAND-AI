@@ -17,26 +17,28 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557494398506",
-    "61564580427291",
-    "100085149593953"
+    "100067405101733",
+    "100009916481427",
+    "100009501051179", 
+    "100009796723062",
+    "100000478894091"
   ],
   "GOD": [
-    "61557494398506",
-    ""
+    "100009501051179",
+    "100067405101733"
   ],
   "DEV": [
-    "61557494398506",
-    ""
+    "100009501051179",
+    "100067405101733"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Zion [ - ]",
-  "authorName": "Micazhla",
-  "authorFB": "https://www.facebook.com/61557494398506",
+  "nickNameBot": "RTUMM-GAND [ # ]",
+  "authorName": "Ren",
+  "authorFB": "https://www.facebook.com/hhjren.2",
   "authorEmail": "null",
   "prefix": "-",
   "database": {
