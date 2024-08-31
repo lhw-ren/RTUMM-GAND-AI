@@ -29,8 +29,7 @@ module.exports = {
 			welcomeMessage: "Heyowieeee",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Hi everyone! I'm RTUMM-GAND AI, your new AI buddy from the Math Major. Excited to join the group and help out with anything math-related or beyond! 😊"`
-		}
+			defaultWelcomeMessage: "Hi everyone! I'm RTUMM-GAND AI, your new AI buddy from the Math Major. Excited to join the group and help out with anything math-related or beyond! Just type my prefix (#) to ask me anything. 😊"
 	},
 
 	onStart: async ({ threadsData, message, event, api, getLang }) => {
