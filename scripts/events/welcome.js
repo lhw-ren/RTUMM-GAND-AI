@@ -26,15 +26,15 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Connected.",
+			welcomeMessage: "Heyowieeee",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Welcome, new member.`
+			defaultWelcomeMessage: `Hi everyone! I'm RTUMM-GAND AI, your new AI buddy from the Math Major. Excited to join the group and help out with anything math-related or beyond! 😊"`
 		}
 	},
 
 	onStart: async ({ threadsData, message, event, api, getLang }) => {
-		if (event.logMessageType == "log:subscribe")
+		if (event. helogMessageType == "log:subscribe")
 			return async function () {
 				const hours = getTime("HH");
 				const { threadID } = event;
