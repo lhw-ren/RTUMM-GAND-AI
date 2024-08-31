@@ -40,7 +40,7 @@
   "authorName": "Ren",
   "authorFB": "https://www.facebook.com/hhjren.2",
   "authorEmail": "null",
-  "prefix": "-",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
