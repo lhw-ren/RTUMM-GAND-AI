@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Hi everyone! I'm RTUMM-GAND AI, your new AI buddy from the Math Major. Excited to join your group and help out with anything math-related or beyond! Just type my prefix (#) to ask me anything. 🤗🎀",
+			welcomeMessage: "Hi everyone! I'm RTUMM-GAND AI, your new AI buddy created by Math Major. Excited to join your group and help out with anything math-related or beyond! Just type my prefix (#) to ask me anything. 🤗🎀",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Hi everyone! I'm RTUMM-GAND AI, your new AI buddy from the Math Major. Excited to join your group and help out with anything math-related or beyond! Just type my prefix (#) to ask me anything.`
+			defaultWelcomeMessage: `hello {userName}, welcome to {boxName}`
 		}
 	},
 
